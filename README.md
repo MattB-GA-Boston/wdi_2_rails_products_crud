@@ -18,12 +18,12 @@ See [product_index_show.md](product_index_show.md) and branch simple_controller.
 
 #### Implement create, update and delete for a resource.
 
-See [product_cud](product_cud) and branch add_crud.  
+See [product_cud](product_cud.md) and branch add_crud.  
 
 
 #### Add validations for a resource.
 
-See [product_validations.md](instructor_notes_3.md) and branch add_validations.  
+See [product_validations.md](product_validations.md) and branch add_validations.  
 
 #### Use partials to DRY up views.
 
