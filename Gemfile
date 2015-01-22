@@ -83,7 +83,7 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'guard-rspec', require: false
 
-  gem 'pry-rails'
+  gem 'pry-byebug'
 
   # Turn off verbose logging of asset requests
   gem 'quiet_assets'
