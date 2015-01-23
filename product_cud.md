@@ -103,7 +103,7 @@ Change the view to use the Rails form_for helper instead of straight HTML!
     <%= f.text_area :description %> 
     <br> 
     <%= f.label :price %> <br> 
-    <%= f.text_field :price %> 
+    <%= f.number_field :price %> 
     <br> 
     <%= f.submit %> 
   <% end %>
